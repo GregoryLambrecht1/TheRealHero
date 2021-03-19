@@ -1,4 +1,4 @@
-package Opdrachten.TheRealHero;
+package TheRealHero;
 
 import java.time.LocalDate;
 
