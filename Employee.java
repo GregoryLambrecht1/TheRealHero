@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 package TheRealHero;
 import java.time.LocalDate;
+=======
+package Opdrachten.TheRealHero;
+
+>>>>>>> 60b3ffb39cc2109f87c87f76275d40a22c3ebd31
 import java.time.LocalTime;
 
 public  abstract class Employee extends APerson {
