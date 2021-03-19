@@ -1,4 +1,4 @@
-package TheRealHero;
+package Opdrachten.TheRealHero;
 
 public class Manager extends Employee {
 
